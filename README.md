@@ -40,3 +40,9 @@ The Bauman Moscow State Technical University, Java developer
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
     </picture>
     </a></p>
+    ## Github Stats
+
+## Github Stats
+
+[//]: # ([![trophy]&#40;https://github-profile-trophy.vercel.app/?username=psypolice&#41;]&#40;https://github.com/psypolice&#41;  )
+![](https://komarev.com/ghpvc/?username=psypolice)
