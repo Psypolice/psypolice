@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alexey
+Hi ![//](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alexey
 ==============================================================================================================================
 
 Java Backend Developer
@@ -42,7 +42,7 @@ The Bauman Moscow State Technical University, Java developer
     </a></p>
     ## Github Stats
 
-## Github Stats
+### Github Stats
 
 [//]: # ([![trophy]&#40;https://github-profile-trophy.vercel.app/?username=psypolice&#41;]&#40;https://github.com/psypolice&#41;  )
 ![](https://komarev.com/ghpvc/?username=psypolice)
