@@ -6,7 +6,7 @@ Java Backend Developer
 ----------------------
 
 *   🌍  I'm based in Moscow
-*   ✉️  You can contact me at [psypolice@gmail.com](mailto:psypolice@gmail.com)
+*   ✉️  You can contact me at [psypolice88@gmail.com](mailto:psypolice88@gmail.com)
 *   🧠  I'm learning Java, Angular
 
 *   ## My education
